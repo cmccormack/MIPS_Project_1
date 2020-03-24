@@ -3,7 +3,7 @@
 #  Name: Christopher McCormack
 #  ASU email: cjmccorm@asu.edu
 #  Course: CSE/EEE230, MW 4:30pm
-#  Description: This is my first assembly language program.
+#  Description: This is my third assembly language program.
 #               It calculates dot product using add rather than mult.
 #-------------------------------------------------------------------------------------------
 
